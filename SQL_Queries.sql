@@ -1,3 +1,4 @@
+/* These are the queries used according to the demand of the flower shop */
 USE mm_cpsc5910team03;
 
 /* Find the customer buying the most expensive combo in a single time. */
