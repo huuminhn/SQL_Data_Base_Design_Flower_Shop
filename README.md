@@ -32,5 +32,8 @@ I included 12 SQL queries used in this database ( including lag, lead, stored pr
 - Visualize the necessary charts that help ultilizing the business's demands. 
 - Provide insights and key findings of the database analytical process.
 
-#### The final ER diagram: 
+### The final ER diagram: 
 <img src="Flower_ER.png?raw=true"/>  
+
+### A Visualization in Tableau:  
+<img src="flowershop.png?raw=true"/>
