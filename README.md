@@ -11,7 +11,7 @@ I included 12 SQL queries used in this database ( including lag, lead, stored pr
 --- 
 
 ### Milestone 1:
-1. Developed a conceptual model that have over 16 entities and a number of attributes, ensure the Intergrity Constrains( PK, FK, Uniqueness).  
+1. Develope a conceptual model that have over 16 entities and a number of attributes, ensure the Intergrity Constrains( PK, FK, Uniqueness).  
 2. Insert captions and description that explains the entities and attributes of the conceptual model and help simplify the databse concepts to the flower shop owners.  
 3. Wrote a mission statement that best describes the main goal of the flower botique.  
 
